@@ -1,0 +1,39 @@
+PROGRAMMING FOUNDATIONS
+Programming Foundations: Fundamentals (2h 10m)
+https://www.linkedin.com/learning/programming-foundations-fundamentals-3
+
+
+Programming Foundations: Beyond the Fundamentals (2h 4m)
+https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals
+
+
+Programming Foundations: Object-Oriented Design (2h 40m)
+https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3
+
+Programming Foundations: Data Structures (2h 20m)
+https://www.linkedin.com/learning/programming-foundations-data-structures-2
+
+
+Programming Foundations: Algorithms (1h 45m)
+https://www.linkedin.com/learning/programming-foundations-algorithms
+
+
+Programming Foundations: Design Patterns (1h 44m)
+https://www.linkedin.com/learning/programming-foundations-design-patterns-2
+
+
+Programming Foundations: Databases (1h 25m)
+https://www.linkedin.com/learning/programming-foundations-databases-2
+
+
+Programming Foundations: APIs and Web Services (1h 14m)
+https://www.linkedin.com/learning/programming-foundations-apis-and-web-services
+
+
+Programming Foundations: Software Testing/QA (0h 53m)
+https://www.linkedin.com/learning/programming-foundations-software-testing-qa
+
+
+Git Essential Training: The Basics (2h 55m)
+https://www.linkedin.com/learning/git-essential-training-the-basics
+
